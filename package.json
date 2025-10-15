@@ -1,0 +1,15 @@
+{
+    "name": "n8n-odoo-workflow",
+    "version": "1.0.0",
+    "description": "n8n workflow project for Odoo integration",
+    "main": "odoo.json",
+    "scripts": {
+      "start": "n8n",
+      "import-workflow": "echo 'Import the workflow manually using n8n editor UI'"
+    },
+    "keywords": ["n8n", "workflow", "odoo", "automation"],
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {}
+  }
+  
